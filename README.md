@@ -9,6 +9,8 @@ Simples UI for a fictional finances website, made as part of a webdev course.
 
  - [InputMask](https://github.com/RobinHerbots/Inputmask)
 
+## Screenshots 
+
 The landing page 
 ![Landing Page](images/landingpagetop.PNG)
 
